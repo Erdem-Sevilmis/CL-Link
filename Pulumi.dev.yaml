@@ -1,0 +1,4 @@
+config:
+  google-native:project: CL-Link
+  azure-native:location: germany
+  aws-native:region: eu-central-1

@@ -1,0 +1,7 @@
+name: CL-Link
+runtime: dotnet
+description: An Iac program using multiple cloud providers with the help of pulumi & Spectre.Console.
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
